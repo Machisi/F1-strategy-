@@ -1,0 +1,18 @@
+f1_calendar = [
+    {"race": "Spanish Grand Prix", "city": "Barcelona","lat":41.566,"long":2.26, "date": "2025-05-11"}, 
+    {"race": "Canadian Grand Prix", "city": "Montreal", "lat":45.50, "long":-73.52, "date": "2025-06-08"},
+    {"race": "Austrian Grand Prix", "city": "Spielberg", "lat":-37.849, "long":144.9700, "date": "2025-06-22"},
+    {"race": "British Grand Prix", "city": "Silverstone", "lat":52.0683, "long":-1.02301, "date": "2025-07-06"},
+    {"race": "Hungarian Grand Prix", "city": "Budapest", "lat":47.5798, "long":19.2474, "date": "2025-08-03"},
+    {"race": "Belgian Grand Prix", "city": "Spa-Francorchamps", "lat":50.4437, "long":5.9661, "date": "2025-08-24"}, 
+    {"race": "Dutch Grand Prix", "city": "Zandvoort","lat":52.3845, "long":4.53458, "date": "2025-08-31"},
+    {"race": "Italian Grand Prix", "city": "Monza","lat":45.6205, "long":9.2814, "date": "2025-09-07"},
+    {"race": "Azerbaijan Grand Prix", "city": "Baku", "lat":40.3730, "long":49.8531, "date": "2025-09-21"}, 
+    {"race": "Singapore Grand Prix", "city": "Singapore", "lat":1.29166,"long":103.8578, "date": "2025-10-05"},
+    {"race": "United States Grand Prix", "city": "Austin, Texas", "lat":30.13288,"long":-97.6406,"date": "2025-10-26"},
+    {"race": "Mexican Grand Prix", "city": "Mexico City", "lat":19.4058, "long":-99.0926,"date": "2025-10-27"}, 
+    {"race": "Brazilian Grand Prix", "city": "Sao Paulo", "lat":-23.7030, "long":-46.70017,"date": "2025-11-09"}, 
+    {"race": "Las Vegas Grand Prix", "city": "Las Vegas", "lat":31.110040, "long":-115.1620,"date": "2025-11-22"}, 
+    {"race": "Qatar Grand Prix", "city": "Qatar", "lat":25.49690, "long":51.4528,"date": "2025-11-30"}, 
+    {"race": "Abu Dhabi Grand Prix", "city": "Yas Marina", "lat":24.4699, "long":54.60572,"date": "2025-12-07"},  
+]
